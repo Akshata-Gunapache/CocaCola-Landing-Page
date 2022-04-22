@@ -12,5 +12,4 @@ This is a beautifully designed, <b>responsive</b> standalone web page of <b>Coca
 </p>
 
 ## Screenshot
-<img src="https://user-images.githubusercontent.com/96786500/163662177-8fa5b3ce-aa16-49d9-89a7-c94a3dce9cc1.png" width=100%>
-
+![Screenshot 2022-04-22 230057](https://user-images.githubusercontent.com/96786500/164765121-d54564d4-9b60-4e26-a767-f24a055b9c4b.png)
