@@ -172,6 +172,27 @@ header .navigation li a {
 }
 
 
+/* ......................scrollbar css........................ */
+
+html::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.433);
+	border-radius: 10px;
+	background-color: #000000;
+}
+
+html::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #000000;
+}
+
+html::-webkit-scrollbar-thumb
+{
+	border-radius: 10px;
+	-webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.567);
+	background-color: #ffffff;
+}
 @media (max-width:991px){
   header{
     padding: 40px;
